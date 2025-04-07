@@ -1,0 +1,19 @@
+{
+  "name": "第1个宇宙NFT",
+  "description": "这是我第一个NFT作品，只能铸造100个之一",
+  "image": "https://haowallpaper.com/link/common/file/previewFileImg/16411191742483840",
+  "attributes": [
+    {
+      "trait_type": "背景",
+      "value": "银河"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "史诗"
+    },
+    {
+      "trait_type": "能量值",
+      "value": 95
+    }
+  ]
+}
