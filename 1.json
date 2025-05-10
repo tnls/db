@@ -1,7 +1,7 @@
 {
-  "name": "第1个宇宙NFT",
-  "description": "这是我第一个NFT作品，只能铸造100个之一",
-  "image": "https://haowallpaper.com/link/common/file/previewFileImg/16563360456428928",
+  "name": "草莓熊",
+  "description": "这是一段描述文字",
+  "image": "http://bafybeid2bc62qbbzljkjlf5zoy5sdv4mkpbcitzkb523h6pjuzk5vp3ejq.ipfs.localhost:8080/?filename=QmWZ2BLncFyf7uycgakxRVyVbZ1G8UbGKiQcHiNr3EwiKu",
   "attributes": [
     {
       "trait_type": "背景",
